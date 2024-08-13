@@ -10,5 +10,8 @@
     },
     "Mexican": {
         "access": true
+    },
+    "MEXICAN": {
+        "access": true
     }
 }

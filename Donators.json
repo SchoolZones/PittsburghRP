@@ -7,11 +7,5 @@
     },
     "Not_Allowed_Near_School_Zones": {
         "access": true
-    },
-    "Mexican": {
-        "access": true
-    },
-    "MEXICAN": {
-        "access": true
     }
 }

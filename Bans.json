@@ -13,5 +13,10 @@
         "Admin": "Luck",
         "Date": "12/12/2025",
         "Reason": "Racism"
+    },
+    "Bob": {
+        "Admin": "Gary",
+        "Date": "12/12/2025",
+        "Reason": "RDM"
     }
 }

@@ -8,5 +8,10 @@
         "Admin": "Gary",
         "Date": "12/12/2025",
         "Reason": "RDM"
+    },
+    "DeadDog": {
+        "Admin": "Luck",
+        "Date": "12/12/2025",
+        "Reason": "Racism"
     }
 }
